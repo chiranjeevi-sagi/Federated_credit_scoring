@@ -1,2 +1,6 @@
 # Federated_credit_scoring
 Federated learning for credit scoring. Investigating privacy, performance and computational overhead
+
+## Federated Lerning
+
+Federated learning is a novel machine learning approach that enables the training of machine learning models using data distributed across multiple devices or locations. This decentralized approach to model training has emerged as a promising solution to address privacy and security concerns associated with centralizing large amounts of sensitive data. In federated learning, instead of sending data to a central server, local data is used to train a model that is then sent back to a central server to be combined with other models. This approach allows the model to be trained on a large and diverse set of data while minimizing data exposure and maintaining data privacy. Federated learning has gained significant attention in recent years due to its potential to unlock the power of distributed data and improve the accuracy and efficiency of machine learning models. In this paper, we provide an overview of federated learning, including its key concepts, advantages, and challenges, and discuss its potential applications in various domains.
