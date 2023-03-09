@@ -14,3 +14,6 @@ Credit scoring is a critical process in the financial industry that involves eva
 One of the primary privacy concerns in credit scoring is the potential for discrimination. For example, if credit scoring models rely heavily on factors such as race, gender, or age, it may lead to unfair and discriminatory practices that negatively impact certain groups of people. Additionally, credit scoring models may also unintentionally perpetuate existing biases in the financial industry, such as favoring individuals with established credit histories or those who have access to certain types of financial products.
 
 Another concern is the risk of data breaches and unauthorized access to sensitive personal information. Credit scoring companies typically collect and store vast amounts of personal and financial data, such as credit card numbers, social security numbers, and income information. If this data falls into the wrong hands, it can lead to identity theft, fraud, and other financial crimes.
+
+
+## This study is paused for a while while I get a grip on the algorithms in machine learning.
