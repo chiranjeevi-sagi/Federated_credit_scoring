@@ -1,4 +1,4 @@
-# Federated_credit_scoring
+# Federated_credit_scoring (Project Paused for a while)
 Federated learning for credit scoring. Investigating privacy, performance and computational overhead
 
 ## Federated Lerning
